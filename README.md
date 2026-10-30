@@ -17,4 +17,5 @@ To connect and interact with the Portaldot V3 testnet environment, use the follo
 ## Setup & Deployment
 1. Clone the repository: `git clone https://github.com/rcortez056-spec/PortaldotHack.git`
 2. Configure your environment variables using the Portaldot V3 testnet endpoints provided above.
-3. Review architectural documentation and workflow logs in the repository.
+3. Ensure the Otari gateway environment variables are configured via otari.env.   
+   
